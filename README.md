@@ -18,3 +18,4 @@ baselines from a single set of high-quality SCAP content.
 ## Requirement
 - Linux (RHEL, CentOS, or Fedora)
 - openSCAP
+- familarity with commandline
